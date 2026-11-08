@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="300"/>
+</p>
 
-<!--
-**shadxwblade/shadxwblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm ReSP - Junior Software Engineer</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🐍 Python | 🤖 Telegram Bots | 🛠️ Software Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/zxcresp">
+    <img src="https://img.shields.io/badge/GitHub-shadxwblade-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 💡 About me
+* I'm learning Python, C++, Linux, databases, and web technologies
+* I strive to write clean and understandable code
+* I like to write code when I have time
+* I`m also interested in cybersecurity 
+
+---
+
+### 🛠 Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github" />
+</p>
+
+---
+
+### 🖥️ System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,windows" />
+</p>
+
+---
+
+### ⚙️ IDE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxcresp&show_icons=true&hide_border=true&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadxwblade&hide_border=true&theme=transparent"/>
+</p>
