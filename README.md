@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/ykOcYUl1uTMAAAAC/tyrell-wellick-bonsoir.gif" width="300"/>
 </p>
 
 <h1 align="center">I'm ReSP - Junior Software Engineer</h1>
@@ -46,9 +46,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadxwblade&show_icons=true&hide_border=true&theme=transparent"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadxwblade&hide_border=true&theme=transparent"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=shadxwblade&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shadxwblade&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
