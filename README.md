@@ -5,7 +5,7 @@
 <h1 align="center">I'm ReSP - Junior Software Engineer</h1>
 
 <p align="center">
-  🐍 Python | 🤖 Telegram Bots | 🛠️ Software Development
+  🐍 Python | 🛡️ Cybersecurity | 🛠️ Software Development
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxcresp&show_icons=true&hide_border=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shadxwblade&show_icons=true&hide_border=true&theme=transparent"/>
 </p>
 
 <p align="center">
