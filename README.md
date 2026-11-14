@@ -5,7 +5,7 @@
 <h1 align="center">I'm ReSP - Junior Software Engineer</h1>
 
 <p align="center">
-  🐍 Python | 🛡️ Cybersecurity | 🛠️ Software Development
+  🛡️ Cybersecurity | 💻 Software Development | 🐍 Python
 </p>
 
 <p align="center">
@@ -17,33 +17,47 @@
 ---
 
 ### 💡 About me
-* I'm learning Python, C++, Linux, databases, and web technologies
-* I strive to write clean and understandable code
-* I like to write code when I have time
-* I`m also interested in cybersecurity 
+
+- I'm interested in cybersecurity and software development
+- I enjoy building software and exploring how systems work under the hood
+- I'm interested in network security, Linux, and system architecture
+- I work with Python, C++, JavaScript, and web technologies
+- I focus on writing clean, efficient, and maintainable code
+- Constantly learning, experimenting, and improving my skills
 
 ---
 
-### 🛠 Stack
+### 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github" />
 </p>
 
 ---
 
-### 🖥️ System
+### 🖥️ Systems
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,windows" />
 </p>
 
 ---
 
-### ⚙️ IDE
+### ⚙️ Development Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,arduino" />
 </p>
 
 ---
+
+### 🏆 Awards
+
+- 🥇 JuniorSkills Shygys 2026 - 1st Place, Web Technologies
+
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=shadxwblade&show_icons=true&hide_border=true&theme=transparent" height="165"/>
